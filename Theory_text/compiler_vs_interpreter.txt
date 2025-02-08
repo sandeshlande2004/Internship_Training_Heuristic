@@ -1,0 +1,21 @@
+Q. WHY COMPILER IS FASTER THAN INTERPRETER?
+
+    A: Interpreter is slower than compiler, because the interpreter has to interpret the code line by line,
+    whereas the compiler compiles the entire code into at once. This makes the compiler faster than the interpreter.
+
+Q. WHAT IS THE DIFFERENCE BETWEEN A COMPILER AND AN INTERPRETER?
+
+    A: A compiler translates the entire code into machine code at once, whereas an interpreter interprets the code line by line.
+
+                                           ** Key Differences **
+
+Feature	                    Compiler	                                          Interpreter
+
+Translation	       Translates the entire program at once.	               Translates and executes code line by line.
+
+Speed	           Faster execution.	                                   Slower execution.
+
+Error Detection	   Reports errors after the entire program is compiled.	   Reports errors immediately when encountered.
+
+Examples	       C, C++, Go.	                                           Python, JavaScript, Ruby.
+
