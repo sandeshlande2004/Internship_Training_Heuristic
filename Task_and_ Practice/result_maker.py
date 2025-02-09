@@ -1,5 +1,5 @@
 title = 'PYTHON BASED RESULT MAKER' 
-print(title.center(50, '*'))
+print(title.center(50, '*')) #used to align string to center from 50px
 print('------------------------------------------------------')
 dev = 'Developed by: Er. Sandesh Lande'
 print(dev.center(50))
