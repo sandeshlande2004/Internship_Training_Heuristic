@@ -40,7 +40,7 @@
 
 #------------------------------------------------------------------------------------------------------------------------------------------------#
 
-import random
+import random  #used to generate random results
 
 title = 'Rock Paper Scissor Game'
 print(title.center(50, '*'))
