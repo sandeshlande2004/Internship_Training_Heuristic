@@ -1,0 +1,15 @@
+Q. What is Itention in Python and why it is important?
+
+    A: In Python, indentation refers to the spaces or tabs at the beginning of a code line, which is used to define code blocks. It is crucial for code structure and readability, and it is not merely a convention but a syntactic requirement. Unlike languages like C++ or Java that use curly braces to denote code blocks, Python relies entirely on indentation.
+    The standard convention is to use four spaces for each level of indentation. Consistent indentation is essential as it determines the grouping and execution of statements. Incorrect indentation can lead to errors and unexpected behavior. 
+
+    for example:
+
+    if(x>10):
+       print("X is greater than 10")
+    else:
+       print("X is smaller than 10")
+
+    In above example the space below the if and else statement is called Itention. It plays very important role in python because it is used to define the code block. If you don't use itention then python will throw an error and the loop will not work. So it is very important to use itention in python.
+
+
