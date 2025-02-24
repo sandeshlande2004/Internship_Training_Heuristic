@@ -30,7 +30,7 @@ while True:
             stu_class = input("Enter your class: ")
             print("Select an Event you want to Participate: ")
             events_list = list(events.keys())
-            for i, event in enumerate(events_list, 1):
+            for i, event in enumerate(events_list, 1):  #enumerate is used to set counter to each item in list. It is used while looping
                 print(f"{i}. {event}")
                 
             
